@@ -5,7 +5,9 @@
 2  - reemplaza el archivo nestwl.nds en la ruta \_nds\dsimenuplusplus\emulators por el del archivo .rar
 3  - listo podrás jugar a juegos de nes en DSiMenu++
 PD -este es un reemplazo al emulador de nes para el DSiMenu ++ por si no cargan los juegos o directamente no carga el emulador     
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 /// ENG
 1  - copy the nesDS.ini file in the root of the SD card
 2  - replace the file nestwl.nds in the path \ _nds \ dsimenuplusplus \ emulators by the .rar file
